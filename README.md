@@ -17,3 +17,15 @@
 6. How did you make this program maintainable, readable, and adaptable?
      The way I made this code maintainable, readable, and adaptable was by using inherited files and keeping my main file very short. This allows me to only need to change a few things in my .h or .cpp file to make large changes to the whole code base. Also, the main file is more readable due to calling from methods that are declared and defined elsewhere. 
   
+CS 250 Journal
+
+I firmly believe that attaining mastery in this skill requires time and unwavering commitment. By maintaining transparent communication with end-users, we can systematically introduce a range of changes through incremental and straightforward releases. User stories assume a critical role in honing client requirements by addressing these fundamental questions:
+
+Who stands to benefit from this change?
+What does the user aim to achieve?
+Why is this change absolutely necessary?
+
+Since my initiation into the world of Agile methodology, I feel well-prepared to enhance my grasp of project management across a spectrum of scenarios. Organization holds a paramount position in the realm of development, and Agile provides an effective means to uphold order while preserving the virtues of flexibility and adaptability. Development teams place a premium on value-driven progress, unfettered by the constraints of stringent deadlines, thereby ensuring the consistent attainment of end-user objectives. My aspirations include the integration of software tools such as Azure, Jira, and Github into my upcoming projects. In addition, daily stand-up meetings and planning poker have evolved into foundational elements of my developer toolkit. Agile simplifies the complexity of development endeavors by prioritizing smaller tasks.
+
+The significance of this lesson was underscored during my participation in a full-stack development bootcamp. Working collaboratively within a team characterized by diverse personalities and viewpoints, it is imperative to keep sight of the shared objective: delivering a product. The focus should not be on determining who is the superior developer or who possesses the most experience; rather, it should be on nurturing collaboration. Agile, with its emphasis on adaptability, mandates that developers also exhibit flexibility. Team members should be open to perspectives beyond their own and extend respect to differing opinions. Serving as the team leader in my bootcamp project, I ensured that every team member had a voice, whether or not consensus was reached, and each team member's ideas found a place in the project. Cultivating trust plays a pivotal role in boosting team morale and strengthening intra-team relationships. Personal development remains a cornerstone, for without the experiential foundation, growth remains hampered.
+
